@@ -9,7 +9,7 @@
   "author": "sam detweiler",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "2.2.11",
+    "mongodb": "3.6.1",
     "electron-log": "^1.0.0"
   },
   "devDependencies": {
